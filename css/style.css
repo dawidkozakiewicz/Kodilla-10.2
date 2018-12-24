@@ -19,3 +19,12 @@ h1 {
   border-radius: 2%;
   margin: 0;
 }
+
+button {
+  background-color: blueviolet;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  outline: none;
+}
+
